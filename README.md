@@ -1,6 +1,6 @@
-# 8-Bit Wizard The Escape
+# 8-Bit Wizard: The Escape
 
-This is a Unity game engine demo I have coded for my capstone project. I was into motion controllers and tried to make myself one. I have used an Arduino, then connected an accelerometer, and a joystick to it. The player controlls the movement with joysticks but the camera is controlled with the accelerometer. 
+This is a Unity game engine demo I have coded for my capstone project. I was into motion controllers and tried to make myself one. I have used an Arduino, then connected an accelerometer and a joystick to it. There is also an additional button for interacting with objects. The player controlls the movement with joysticks but the camera is controlled through the accelerometer values. 
 
 If you are looking for the real hero, that would be the Uduino library. It allows Unity game engine to register my Arduino as a legitimate controller.  
 
